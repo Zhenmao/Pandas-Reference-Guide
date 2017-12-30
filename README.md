@@ -38,3 +38,13 @@ This serves as a quick reference guide for Pandas beginners. It consists of 7 ju
     * Splitting the Data into Groups
     * Applying a Function to Each Group
     * Pivot Tables and Cross Tabulations 
+
+* [8 Data Visualization](https://github.com/Zhenmao/Pandas-Reference-Guide/blob/master/8%20Data%20Visualization.ipynb)
+    * Line Plot
+    * Vertical Bar Plot
+    * Horizontal bar Plot
+    * Histogram
+    * Boxplot
+    * Pie Chart
+    * Area Plot
+    * Scatter Plot
